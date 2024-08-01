@@ -477,8 +477,8 @@ function ping($host, $port, $timeout) {
 }
 
 function generateHiddifyTags() {
-    $profileTitle = base64_encode("🗽 ÐΛɌ₭ᑎΞ𐒡𐒡 🫧 𓄂𓆃");
-    return "#profile-title: base64:{$profileTitle}\n#profile-update-interval: 1\n#subscription-userinfo: upload=5368709120; download=545097156608; total=955630223360; expire=1762677732\n#support-url: https://darkness_427\n#profile-web-page-url: https://mansor427.t.me
+    $profileTitle = base64_encode("IP_CF");
+    return "#profile-title: base64:{$profileTitle}\n#profile-update-interval: 1\n#subscription-userinfo: upload=5368709120; download=545097156608; total=955630223360; expire=1762677732\n#support-url: https://IP_CF\n#profile-web-page-url: https://IP_CF.t.me
 ";
 }
 
