@@ -558,7 +558,7 @@ function generateUpdateTime() {
 }
 
 function generateEndofConfiguration() {
-    return "vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽%20Channel%20@darkness_427\nvless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#IP_CF";
+    return "vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽%20Channel%20@IP_CF\nvless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#IP_CF";
 }
 
 $source = "IP_CF_Config";
