@@ -71,7 +71,7 @@ function configParse($input, $configType)
         );
         $server_address = $url["host"];
         $server_port = $url["port"];
-        $name = isset($url["fragment"]) ? urldecode($url["fragment"]) : "IP_CF" . getRandomName();
+        $name = isset($url["fragment"]) ? urldecode($url["fragment"]) : "TVC" . getRandomName();
         $server = [
             "encryption_method" => $encryption_method,
             "password" => $password,
@@ -477,8 +477,8 @@ function ping($host, $port, $timeout) {
 }
 
 function generateHiddifyTags() {
-    $profileTitle = base64_encode("IP_CF");
-    return "#profile-title: base64:{$profileTitle}\n#profile-update-interval: 1\n#subscription-userinfo: upload=5368709120; download=545097156608; total=955630223360; expire=1762677732\n#support-url: https://IP_CF\n#profile-web-page-url: https://IP_CF.t.me
+    $profileTitle = base64_encode("🗽 ÐΛɌ₭ᑎΞ𐒡𐒡 🫧 𓄂𓆃");
+    return "#profile-title: base64:{$profileTitle}\n#profile-update-interval: 1\n#subscription-userinfo: upload=5368709120; download=545097156608; total=955630223360; expire=1762677732\n#support-url: https://darkness_427\n#profile-web-page-url: https://mansor427.t.me
 ";
 }
 
@@ -554,15 +554,15 @@ function getTehranTime() {
 
 function generateUpdateTime() {
     $tehranTime = getTehranTime();
-    return "vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#Chennel:IP_CF\nvless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20{$tehranTime}\n";
+    return "vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#👻%20ÐΛɌ₭ᑎΞ𐒡𐒡%20👾%20@mansor427\nvless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20{$tehranTime}\n";
 }
 
 function generateEndofConfiguration() {
-    return "vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%91%BD%20Channel%20%40IP_CF%5Cnvless%3A%2F%2Facbabca-acab-bcaa-abdc-bbccaabaccab%40127.0.0.1%3A8080%3Fsecurity%3Dtls%26type%3Dtcp%23IP_CF";
+    return "vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽%20Channel%20@darkness_427\nvless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👹ÐΛɌ₭ᑎΞ𐒡𐒡 🫧 𓄂𓆃👹";
 }
 
-$source = "IP_CF_Config";
-$configsList = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs("IP_CF_Config") . generateEndofConfiguration();
+$source = "Miner_V2ray";
+$configsList = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs("Miner_V2ray") . generateEndofConfiguration();
 
 file_put_contents("Miner/normal", $configsList);
 file_put_contents("Miner/base64", base64_encode($configsList));
