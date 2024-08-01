@@ -554,11 +554,11 @@ function getTehranTime() {
 
 function generateUpdateTime() {
     $tehranTime = getTehranTime();
-    return "vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#👻%20ÐΛɌ₭ᑎΞ𐒡𐒡%20👾%20@mansor427\nvless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20{$tehranTime}\n";
+    return "vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#👻IP_CF👾%20@IP_CF\nvless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20{$tehranTime}\n";
 }
 
 function generateEndofConfiguration() {
-    return "vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽%20Channel%20@darkness_427\nvless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👹ÐΛɌ₭ᑎΞ𐒡𐒡 🫧 𓄂𓆃👹";
+    return "vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽%20Channel%20@darkness_427\nvless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#IP_CF";
 }
 
 $source = "Miner_V2ray";
