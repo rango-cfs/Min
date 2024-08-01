@@ -71,7 +71,7 @@ function configParse($input, $configType)
         );
         $server_address = $url["host"];
         $server_port = $url["port"];
-        $name = isset($url["fragment"]) ? urldecode($url["fragment"]) : "TVC" . getRandomName();
+        $name = isset($url["fragment"]) ? urldecode($url["fragment"]) : "IP_CF" . getRandomName();
         $server = [
             "encryption_method" => $encryption_method,
             "password" => $password,
