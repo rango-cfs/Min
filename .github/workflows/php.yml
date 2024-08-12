@@ -6,7 +6,7 @@ on:
     - cron: '*/30 * * * *'
 
 jobs:
-  hin-full:
+  ip_cf-full:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
