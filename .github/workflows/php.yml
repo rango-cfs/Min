@@ -3,7 +3,7 @@ name: "IP_CF Min"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/02 * * * *'
+    - cron: '*/60 * * * *'
 
 jobs:
   ip_cf-full:
