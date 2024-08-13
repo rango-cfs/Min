@@ -10,7 +10,6 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMTM4LjE0MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaXZpZGVvcy5zYnMiLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJpdmlkZW9zLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/cc5b5139-3863-4ce0-ad8d-b4693cbe0c08@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia&amp;sni=footlo.argha-v2pedia.monster#<i",
         "vless:\/\/Telegram-ipV2Ray-cup@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#<i",
         "vless:\/\/49fc52a8-64d5-4fbe-8049-97e9173b2937@185.146.173.58:8080\/?type=ws&amp;encryption=none&amp;host=lc4.lebasnoo.ir.&amp;path=%2Fservernett#<i",
         "vless:\/\/63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095\/?type=ws&amp;encryption=none&amp;host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&amp;path=TelegramChanel%3At.me%2FHTTP_injector99#<i",
@@ -20,7 +19,8 @@
         "vless:\/\/TELEGRAM-NUFiLTER@www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=01.V.V.y.www.speedtest.net.ftp.debian.org.bklink.iR.&amp;type=httpupgrade#<i",
         "vless:\/\/TELEGRAM-NUFiLTER@www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=01.V.V.y.www.speedtest.net.ftp.debian.org.bklink.iR.&amp;type=httpupgrade#<i",
         "vless:\/\/63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095\/?type=ws&amp;encryption=none&amp;host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&amp;path=TelegramChanel%3At.me%2FHTTP_injector99#<i",
-        "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i"
+        "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
+        "vless:\/\/51b2a94d-3016-42ec-863a-fb4b2ac2d134@104.16.232.76:80?path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&amp;type=ws#<i"
     ],
     "trojan": [],
     "ss": [
