@@ -1,7 +1,5 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMTU2LjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuZXp1a28ucmFpZGVuc2hvZ3VuLmNsb3VkbnMub3JnIiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3c1wvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Im5lenVrby5yYWlkZW5zaG9ndW4uY2xvdWRucy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiJ9<\/code>",
-        "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMTgzLjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFoZmtqaGEuY2ZkIiwiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiamFoZmtqaGEuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMjEuNTEuMjA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZWVmdWxsLnRyYWRleDIwODAuY29tIiwiaWQiOiJjYjRmY2E1Zi1lZGY4LTQxNWItYWE4Zi1hYzUyZjQxNTI5NmEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzBmcFpGQjZJYnBOcHRHQXhBdEkwUU0iLCJwb3J0IjoiODAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMTkuNTEuMjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiaXAwMDUuZHRrdTQ3Lnh5eiIsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwicG9ydCI6IjIwODYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
@@ -9,7 +7,8 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMTE2LjQ4IiwiYWlkIjoiMCIsImhvc3QiOiJ3YXAuaG9zdG1qai5jb20iLCJpZCI6IjIyYTEzYWEyLTQ4NTQtNDRjYi1lMDkwLWVjNzFhYjg0YjFmZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoyLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiJ9<\/code>",
         "vmess:\/\/eyJhZGQiOiIyMy4xNjIuMjAwLjE4MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiJ9<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiNjk2NWE0MDctNzU0OS00MzZlLTgwNjQtMjJlM2QzZDJlN2NkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
-        "vmess:\/\/eyJhZGQiOiIxMDQuMjEuOS4yMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhtczE5LmJlc3QtdGl6aS50b3AiLCJpZCI6IjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJobXMxOS5iZXN0LXRpemkudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
+        "vmess:\/\/eyJhZGQiOiIxMDQuMjEuOS4yMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhtczE5LmJlc3QtdGl6aS50b3AiLCJpZCI6IjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJobXMxOS5iZXN0LXRpemkudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
+        "vmess:\/\/eyJhZGQiOiIxNzIuNjYuMjEzLjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJubDg4LnRyYWRleDIwODAuY29tIiwiaWQiOiJmNTMzZTM3Yy05ZGE1LTQ5NTUtYTIxOC1hNzg4NmU1NzE5YjYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL05rWG5JMGw2TEdrb3RNeUFUV214NWY2TWJsTiIsInBvcnQiOiI4MCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
         "vless:\/\/c0c31335-1a7a-44f8-b472-0b8a418c43d7@www.parspack.com:8880?security=none&amp;type=ws&amp;headerType=&amp;path=%2Ftelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%2Ctelegram-ExpressVPN_420%3Fed%3D2048&amp;host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.academigroUp.iR#<i",
@@ -25,7 +24,9 @@
     "trojan": [
         "trojan:\/\/0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=%2F6b777a91&amp;security=tls&amp;host=jobscareerfortoday.com&amp;type=ws&amp;sni=jobscareerfortoday.com#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCRTE2MldPQjdkNk1BR0RtRUFvbEZL@176.126.113.98:15193#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
