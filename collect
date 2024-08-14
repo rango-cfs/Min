@@ -17,10 +17,10 @@
         "vless:\/\/cb4fca5f-edf8-415b-aa8f-ac52f415296a@172.67.77.67:443?path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=de01.tradex2080.com&amp;fp=chrome&amp;type=ws&amp;sni=de01.tradex2080.com#<i",
         "vless:\/\/d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.114.13:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=mmdv2.pages.dev&amp;type=ws&amp;sni=mmdv2.pages.dev#<i",
         "vless:\/\/cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#<i",
-        "vless:\/\/SVNTEAM@speedtest.net:443?type=ws&amp;host=wWw.Dash.Gcoro.Com&amp;path=\/?ed%3D1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2#<i"
+        "vless:\/\/SVNTEAM@speedtest.net:443?type=ws&amp;host=wWw.Dash.Gcoro.Com&amp;path=\/?ed%3D1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2#<i",
+        "vless:\/\/b91b3053-9602-4a60-b848-ec0eafea2087@WWW.zUla.ir:2087?path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i"
     ],
     "trojan": [
-        "trojan:\/\/huge123456@h.iveze.com:60954?encryption=none&amp;security=tls&amp;type=tcp&amp;headerType=none#<i",
         "trojan:\/\/telegram-id-directvpn@13.50.64.151:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [
