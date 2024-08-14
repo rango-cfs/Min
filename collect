@@ -10,7 +10,6 @@
         "vmess:\/\/eyJhZGQiOiIxMDQuMjEuNTEuMjA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZWVmdWxsLnRyYWRleDIwODAuY29tIiwiaWQiOiJjYjRmY2E1Zi1lZGY4LTQxNWItYWE4Zi1hYzUyZjQxNTI5NmEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzBmcFpGQjZJYnBOcHRHQXhBdEkwUU0iLCJwb3J0IjoiODAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=6.V2.b.www.speedtest.net.speedtest-3.Shop.&amp;type=httpupgrade#<i",
         "vless:\/\/4aa844b8-14b3-5ab5-aa44-e1d9a4e21c80@185.146.173.146:8080\/?type=ws&amp;encryption=none&amp;host=Uk1.vless.site.&amp;path=%2Fvless%3Fed%3D8080#<i",
         "vless:\/\/7c0cdfc9-86ae-41af-881b-33ca9002d4c4@www.speedtest.net:8880?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;type=ws#<i",
         "vless:\/\/55b57d47-00b7-4539-ae4a-fc394e53d3d4@104.17.147.22:8880\/?type=ws&amp;encryption=none&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#<i",
@@ -22,7 +21,8 @@
     "trojan": [
         "trojan:\/\/telegram-id-privatevpns@18.175.108.180:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
         "trojan:\/\/telegram-id-privatevpns@3.10.251.210:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/huge123456@h.iveze.com:60954?encryption=none&amp;security=tls&amp;type=tcp&amp;headerType=none#<i"
+        "trojan:\/\/huge123456@h.iveze.com:60954?encryption=none&amp;security=tls&amp;type=tcp&amp;headerType=none#<i",
+        "trojan:\/\/telegram-id-directvpn@13.50.64.151:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowU2lNVElKZG1tR1Z1MTZiSkFVOWRP@138.68.182.23:2248\/?outline=1#<i"
