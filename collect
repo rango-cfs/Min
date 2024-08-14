@@ -10,7 +10,6 @@
         "vmess:\/\/eyJhZGQiOiIxMDQuMjEuOS4yMzYiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOjQ0Mywic2N5IjoiYXV0byIsInNuaSI6ImhtczE5LmJlc3QtdGl6aS50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6MiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
-        "vless:\/\/cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?encryption=none&amp;security=tls&amp;sni=nooshin-2d9.pages.dev&amp;alpn=http%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=nooshin-2d9.pages.dev&amp;path=%2FTelegram-@V2ray_Alpha%2F%3Fed%3D2048#<i",
         "vless:\/\/37239c7f-b959-4065-841f-ac516465f8fe@176.65.242.107:39554\/?type=ws&amp;encryption=none&amp;path=%2F#<i",
         "vless:\/\/94f51d56-204b-466b-b1d7-d397df9273d8@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i",
         "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
@@ -21,7 +20,8 @@
         "vless:\/\/b91b3053-9602-4a60-b848-ec0eafea2087@WWW.zUla.ir:2087?path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-directvpn@13.50.64.151:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/telegram-id-directvpn@13.50.64.151:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-privatevpns@35.159.189.13:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowU2lNVElKZG1tR1Z1MTZiSkFVOWRP@138.68.182.23:2248\/?outline=1#<i",
