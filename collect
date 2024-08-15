@@ -8,7 +8,6 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
-        "vless:\/\/SVNTEAM@speedtest.net:443?type=ws&amp;host=wWw.Dash.Gcoro.Com&amp;path=\/?ed%3D1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2#<i",
         "vless:\/\/b91b3053-9602-4a60-b848-ec0eafea2087@WWW.zUla.ir:2087?path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
         "vless:\/\/6ff40281-f0f1-4f0b-8ff4-814d2444f45b@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;type=ws#<i",
         "vless:\/\/TELEGRAM-NUFiLTER@www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=01.V.V.y.www.speedtest.net.ftp.debian.org.bklink.iR.&amp;type=httpupgrade#<i",
@@ -17,7 +16,8 @@
         "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.215.84:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
         "vless:\/\/1a60b614-7681-40d0-892e-dd2b73205d0f@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;type=ws#<i",
         "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
-        "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i"
+        "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i",
+        "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i"
     ],
     "trojan": [
         "trojan:\/\/telegram-id-privatevpns@35.159.189.13:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
