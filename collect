@@ -1,6 +1,5 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiIxNzIuNjYuMjEzLjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJubDg4LnRyYWRleDIwODAuY29tIiwiaWQiOiJmNTMzZTM3Yy05ZGE1LTQ5NTUtYTIxOC1hNzg4NmU1NzE5YjYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL05rWG5JMGw2TEdrb3RNeUFUV214NWY2TWJsTiIsInBvcnQiOiI4MCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMTYuNjAuOCIsImFpZCI6MCwiaG9zdCI6InVyeS11bml0LWMwMzBlaGVpOC5wb2dldDcxMTM4LndvcmtlcnMuZGV2IiwiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL29iZGlpLmNmZFwvbGlua3dzIiwicG9ydCI6IjIwOTUiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiJ9<\/code>",
         "vmess:\/\/eyJhZGQiOiIyMTMuMjM5LjIzNC4xMjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzQ3NzJhMjUtOTZkMS1lNWFjLTFhMTAtYWY3MWQ4YjJkMmI4IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjYxMzAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjYuMjEzLjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJubDg4LnRyYWRleDIwODAuY29tIiwiaWQiOiJmNTMzZTM3Yy05ZGE1LTQ5NTUtYTIxOC1hNzg4NmU1NzE5YjYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL05rWG5JMGw2TEdrb3RNeUFUV214NWY2TWJsTiIsInBvcnQiOiI4MCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
@@ -20,7 +19,8 @@
         "vless:\/\/83481acd-c14c-40c5-ba0e-8d701e40d2dd@www.parspack.com:8080?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=8.v2.c.www.speedtest.net.debian.org.academigroup.iR.&amp;type=ws#<i",
         "vless:\/\/e13b1aef-8e2d-46aa-b168-46eb3e1b7686@104.20.4.109:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;type=ws#<i",
         "vless:\/\/TELEGRAM-NUFiLTER@Www.speedtest.net:2052?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/TELEGRAM-N%55FiLTER@198.41.202.5:2052?path=@manzariyeh_rasht#<i"
+        "vless:\/\/TELEGRAM-N%55FiLTER@198.41.202.5:2052?path=@manzariyeh_rasht#<i",
+        "vless:\/\/63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095\/?type=ws&amp;encryption=none&amp;host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&amp;path=TelegramChanel%3At.me%2FHTTP_injector99#<i"
     ],
     "trojan": [],
     "ss": [
