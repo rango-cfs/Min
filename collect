@@ -10,7 +10,6 @@
         "vmess:\/\/eyJhZGQiOiIxMDQuMTkuNDYuMjMzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIyMDg2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
         "vless:\/\/join--ZEDMODEON@www.speedtest.net:2095?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.%E5%88%97%E4%B8%8A%E5%88%97%E4%B8%8A%E5%88%97%E4%B8%8A%E4%B8%8A%E5%88%97%E4%B8%8A.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&amp;type=ws#<i",
         "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
         "vless:\/\/a135b8c3-2850-4fdc-ccae-00e01c7ab375@xc644.vrspeeds.site:2086?path=%2FAar%2Cd-F%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=vb31iq.vrspeeds.site&amp;type=httpupgrade#<i",
@@ -19,11 +18,12 @@
         "vless:\/\/416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082\/?type=ws&amp;encryption=none&amp;host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&amp;path=%2F#<i",
         "vless:\/\/7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#<i",
         "vless:\/\/416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8880\/?type=ws&amp;encryption=none&amp;host=MlEwKbYr72.mAmMaDu-fAnToMgAmE.OrG&amp;path=%2F#<i",
-        "vless:\/\/be460d53-c513-4b6b-acbc-9ef3fcee6f04@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc8.lebasnoo.ir.&amp;type=ws#<i"
+        "vless:\/\/be460d53-c513-4b6b-acbc-9ef3fcee6f04@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc8.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/65cf9a5a-ce26-4972-a1bb-5e1618a95d41@www.speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/83481acd-c14c-40c5-ba0e-8d701e40d2dd@www.parspack.com:8080?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=8.v2.c.www.speedtest.net.debian.org.academigroup.iR.&amp;type=ws#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqcUdITkY5UUNEQ3g5eVYwS0pVc3ZG@167.99.216.236:50250\/?outline=1#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRSVlIN3NpRTVmNmJjYVotSXVUczl3@172.233.62.73:1080#<i"
     ],
     "tuic": [],
