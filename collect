@@ -1,6 +1,5 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmphMDUuaHdjYXIuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmphMDUuaHdjYXIuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiNjk2NWE0MDctNzU0OS00MzZlLTgwNjQtMjJlM2QzZDJlN2NkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
@@ -19,7 +18,8 @@
         "vless:\/\/a135b8c3-2850-4fdc-ccae-00e01c7ab375@xc644.vrspeeds.site:2086?path=%2FAar%2Cd-F%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=vb31iq.vrspeeds.site&amp;type=httpupgrade#<i",
         "vless:\/\/4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?path=%2Fspeedtest.net%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=h17.Xn--gmq282ekfhyys3gs.Com.&amp;type=httpupgrade#<i",
         "vless:\/\/8b67212b-b5b4-4392-a52c-a2052e4bd8b8@www.speedtest.net:80?type=ws&amp;path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&amp;host=digikala.com.www.speedtest.net.www.zula.ir.cloudflare.com.vigilantecollection.com.&amp;security=none#<i",
-        "vless:\/\/416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082\/?type=ws&amp;encryption=none&amp;host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&amp;path=%2F#<i"
+        "vless:\/\/416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082\/?type=ws&amp;encryption=none&amp;host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&amp;path=%2F#<i",
+        "vless:\/\/7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#<i"
     ],
     "trojan": [],
     "ss": [
