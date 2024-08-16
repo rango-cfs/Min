@@ -1,13 +1,12 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiIxMDQuMTYuNjAuOCIsImFpZCI6MCwiaG9zdCI6InVyeS11bml0LWMwMzBlaGVpOC5wb2dldDcxMTM4LndvcmtlcnMuZGV2IiwiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL29iZGlpLmNmZFwvbGlua3dzIiwicG9ydCI6IjIwOTUiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiJ9<\/code>",
         "vmess:\/\/eyJhZGQiOiIyMTMuMjM5LjIzNC4xMjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzQ3NzJhMjUtOTZkMS1lNWFjLTFhMTAtYWY3MWQ4YjJkMmI4IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjYxMzAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjYuMjEzLjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJubDg4LnRyYWRleDIwODAuY29tIiwiaWQiOiJmNTMzZTM3Yy05ZGE1LTQ5NTUtYTIxOC1hNzg4NmU1NzE5YjYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL05rWG5JMGw2TEdrb3RNeUFUV214NWY2TWJsTiIsInBvcnQiOiI4MCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzAuMTY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYWtlLmNhcGVsbGFyZS5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiY2FrZS5jYXBlbGxhcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
-        "vmess:\/\/eyJhZGQiOiIxMDQuMTkuNDYuMjMzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIyMDg2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
+        "vmess:\/\/eyJhZGQiOiIxMDQuMTkuNDYuMjMzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIyMDg2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
+        "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
-        "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
         "vless:\/\/a135b8c3-2850-4fdc-ccae-00e01c7ab375@xc644.vrspeeds.site:2086?path=%2FAar%2Cd-F%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=vb31iq.vrspeeds.site&amp;type=httpupgrade#<i",
         "vless:\/\/4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?path=%2Fspeedtest.net%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=h17.Xn--gmq282ekfhyys3gs.Com.&amp;type=httpupgrade#<i",
         "vless:\/\/8b67212b-b5b4-4392-a52c-a2052e4bd8b8@www.speedtest.net:80?type=ws&amp;path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&amp;host=digikala.com.www.speedtest.net.www.zula.ir.cloudflare.com.vigilantecollection.com.&amp;security=none#<i",
@@ -20,7 +19,8 @@
         "vless:\/\/e13b1aef-8e2d-46aa-b168-46eb3e1b7686@104.20.4.109:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;type=ws#<i",
         "vless:\/\/TELEGRAM-NUFiLTER@Www.speedtest.net:2052?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
         "vless:\/\/TELEGRAM-N%55FiLTER@198.41.202.5:2052?path=@manzariyeh_rasht#<i",
-        "vless:\/\/63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095\/?type=ws&amp;encryption=none&amp;host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&amp;path=TelegramChanel%3At.me%2FHTTP_injector99#<i"
+        "vless:\/\/63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095\/?type=ws&amp;encryption=none&amp;host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&amp;path=TelegramChanel%3At.me%2FHTTP_injector99#<i",
+        "vless:\/\/SVNTEAM@speedtest.net:443?type=ws&amp;host=mtn.site&amp;path=%2F%3Fed%3D1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2%2Chttp%2F1.1#<i"
     ],
     "trojan": [],
     "ss": [
