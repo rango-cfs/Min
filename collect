@@ -7,7 +7,6 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
-        "vless:\/\/a135b8c3-2850-4fdc-ccae-00e01c7ab375@xc644.vrspeeds.site:2086?path=%2FAar%2Cd-F%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=vb31iq.vrspeeds.site&amp;type=httpupgrade#<i",
         "vless:\/\/4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?path=%2Fspeedtest.net%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=h17.Xn--gmq282ekfhyys3gs.Com.&amp;type=httpupgrade#<i",
         "vless:\/\/8b67212b-b5b4-4392-a52c-a2052e4bd8b8@www.speedtest.net:80?type=ws&amp;path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&amp;host=digikala.com.www.speedtest.net.www.zula.ir.cloudflare.com.vigilantecollection.com.&amp;security=none#<i",
         "vless:\/\/416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082\/?type=ws&amp;encryption=none&amp;host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&amp;path=%2F#<i",
@@ -20,7 +19,8 @@
         "vless:\/\/TELEGRAM-NUFiLTER@Www.speedtest.net:2052?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
         "vless:\/\/TELEGRAM-N%55FiLTER@198.41.202.5:2052?path=@manzariyeh_rasht#<i",
         "vless:\/\/63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095\/?type=ws&amp;encryption=none&amp;host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&amp;path=TelegramChanel%3At.me%2FHTTP_injector99#<i",
-        "vless:\/\/SVNTEAM@speedtest.net:443?type=ws&amp;host=mtn.site&amp;path=%2F%3Fed%3D1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2%2Chttp%2F1.1#<i"
+        "vless:\/\/SVNTEAM@speedtest.net:443?type=ws&amp;host=mtn.site&amp;path=%2F%3Fed%3D1024&amp;security=tls&amp;fp=firefox&amp;sni=speedtest.net&amp;alpn=h2%2Chttp%2F1.1#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#<i"
     ],
     "trojan": [],
     "ss": [
