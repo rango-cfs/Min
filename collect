@@ -1,11 +1,9 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzAuMTY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYWtlLmNhcGVsbGFyZS5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiY2FrZS5jYXBlbGxhcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMTkuNDYuMjMzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIyMDg2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
-        "vless:\/\/7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=fastxv.pages.dev&amp;type=ws&amp;sni=pages.dev#<i",
         "vless:\/\/416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8880\/?type=ws&amp;encryption=none&amp;host=MlEwKbYr72.mAmMaDu-fAnToMgAmE.OrG&amp;path=%2F#<i",
         "vless:\/\/be460d53-c513-4b6b-acbc-9ef3fcee6f04@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc8.lebasnoo.ir.&amp;type=ws#<i",
         "vless:\/\/65cf9a5a-ce26-4972-a1bb-5e1618a95d41@www.speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&amp;type=httpupgrade#<i",
@@ -19,13 +17,15 @@
         "vless:\/\/telegram-id-P%63V2ray@188.114.96.3:8880?path=@mehrosaboran#<i",
         "vless:\/\/VPNCUSTOMIZE@www.speedtest.net:8080?path=%2FTelegram-VPNCUSTOMIZE-Telegram-VPNCUSTOMIZE-Telegram-VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net&amp;type=httpupgrade#<i",
         "vless:\/\/TELEGRAM-N%55FiLTER@Www.speedtest.net:2052?path=@mehrosaboran#<i",
-        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:8880?type=httpupgrade&amp;path=%2Ftelegram-ArV2ry#<i"
+        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:8880?type=httpupgrade&amp;path=%2Ftelegram-ArV2ry#<i",
+        "vless:\/\/d2c6ddc0-891a-4435-ac0a-4a5cdb78cb7d@104.16.4.103:443?hiddify=1&amp;sni=fl1.tradex2080.com&amp;type=ws&amp;alpn=http%2F1.1&amp;path=%2Fuy4vb8KcMmQqnkXOdFN4WJ&amp;host=fl1.tradex2080.com&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=tls#<i"
     ],
     "trojan": [
         "trojan:\/\/telegram-id-privatevpns@16.170.49.58:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQTDNvaFE5SDZGUzl1aGtPZ2JCWGx6@165.22.238.239:44386\/?outline=1#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQTDNvaFE5SDZGUzl1aGtPZ2JCWGx6@165.22.238.239:44386\/?outline=1#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZDJuWTVNWmFLR1Z5b1RIY2dMcGpY@77.83.246.74:33320#<i"
     ],
     "tuic": [],
     "hysteria": [],
