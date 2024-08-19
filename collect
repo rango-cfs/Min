@@ -4,8 +4,6 @@
         "vmess:\/\/eyJhZGQiOiIxNjIuMTU5LjEyOS4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3R4di5wYWdlcy5kZXYiLCJpZCI6ImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsIm5ldCI6IndzIiwicGF0aCI6IlwvZjIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoicGFnZXMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
-        "vless:\/\/f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443?path=%2Fsolid%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=solid.footballlovernews.com&amp;type=ws&amp;sni=solid.footballlovernews.com#<i",
         "vless:\/\/37239c7f-b959-4065-841f-ac516465f8fe@176.65.242.107:39554\/?type=ws&amp;encryption=none&amp;path=%2F#<i",
         "vless:\/\/37adf21b-0229-47f8-9140-5f94295d250c@188.114.98.45:8080?path=%2FTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%2CTelegram-MainSecurit%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.main.mralpha-vpn.COM&amp;type=httpupgrade#<i",
         "vless:\/\/416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082\/?type=ws&amp;encryption=none&amp;host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&amp;path=%2F#<i",
@@ -17,14 +15,16 @@
         "vless:\/\/911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011\/?type=tcp&amp;encryption=none#<i",
         "vless:\/\/b3e74ecf-2033-42bc-a1c4-0bd906949790@sell.ontenbaz.ir:2573?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
         "vless:\/\/94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#<i",
-        "vless:\/\/bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=de4ecf6b.isvphp-4g8.pages.dev#<i"
+        "vless:\/\/bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=de4ecf6b.isvphp-4g8.pages.dev#<i",
+        "vless:\/\/31864802-bebf-496b-acc9-7cb75bc660af@193.151.158.16:80?path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;type=ws#<i"
     ],
     "trojan": [],
     "ss": [
         "ss:\/\/YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiY003c3ZqWjhIYWM1akRoVkZnc1dT@64.226.98.217:40678\/?outline=1#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VXlTeXREekZYazhENlVWRkUxd1lh@138.68.182.23:2248\/?outline=1#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.133:8118#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.133:8118#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
