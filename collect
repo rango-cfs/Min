@@ -1,9 +1,6 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiIxNjIuMTU5LjEyOS4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3R4di5wYWdlcy5kZXYiLCJpZCI6ImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsIm5ldCI6IndzIiwicGF0aCI6IlwvZjIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoicGFnZXMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=<\/code>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/80b5cdce-3397-4526-af1a-583ea84855f5@188.245.108.227:443?security=reality&amp;encryption=none&amp;pbk=LmpycOrNa_tTeh1tncKhOlo190nBSYgGNBi7sIVLew8&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mdundo.com&amp;sid=7edcfaf1#<i",
         "vless:\/\/911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011\/?type=tcp&amp;encryption=none#<i",
         "vless:\/\/b3e74ecf-2033-42bc-a1c4-0bd906949790@sell.ontenbaz.ir:2573?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
         "vless:\/\/94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#<i",
@@ -16,11 +13,14 @@
         "vless:\/\/94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws&amp;security=none&amp;path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed&amp;encryption=none#<i",
         "vless:\/\/80b5cdce-3397-4526-af1a-583ea84855f5@188.245.108.227:443?security=reality&amp;encryption=none&amp;pbk=LmpycOrNa_tTeh1tncKhOlo190nBSYgGNBi7sIVLew8&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mdundo.com&amp;sid=7edcfaf1#<i",
         "vless:\/\/4aa844b8-14b3-5ab5-aa44-e1d9a4e21c80@185.146.173.146:8080\/?type=ws&amp;encryption=none&amp;host=Uk1.vless.site.&amp;path=%2Fvless%3Fed%3D8080#<i",
-        "vless:\/\/5051cacf-363d-4140-8348-368491ce1ebf@www.speedtest.net:8880?type=ws&amp;path=%2FThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%3Fed%3D2048&amp;host=1505-wordpress-admin-vip-panel-cpanrl-iran-chanel.mralpha-vpn.COM.&amp;security=none#<i"
+        "vless:\/\/5051cacf-363d-4140-8348-368491ce1ebf@www.speedtest.net:8880?type=ws&amp;path=%2FThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%3Fed%3D2048&amp;host=1505-wordpress-admin-vip-panel-cpanrl-iran-chanel.mralpha-vpn.COM.&amp;security=none#<i",
+        "vless:\/\/477d2cef-56a3-44ec-a6a1-85050dda1cf6@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia&amp;sni=footlo.argha-v2pedia.monster#<i",
+        "vless:\/\/cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=fraud.chase&amp;type=ws&amp;sni=www.Arizona.edu#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-directvpn@15.156.167.109:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VXlTeXREekZYazhENlVWRkUxd1lh@138.68.182.23:2248\/?outline=1#<i",
         "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.133:8118#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQamFZUUlVV0VTS3lRMnVVNEhWbXh2@45.33.30.8:18789\/?outline=1#<i",
