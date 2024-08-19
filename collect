@@ -3,7 +3,6 @@
         "vmess:\/\/eyJhZGQiOiIxNjIuMTU5LjEyOS4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3R4di5wYWdlcy5kZXYiLCJpZCI6ImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsIm5ldCI6IndzIiwicGF0aCI6IlwvZjIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoicGFnZXMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/7062ec4a-2ce0-49bc-b7b3-ec37ef7f17d6@104.21.45.21:443\/?type=ws&amp;encryption=none&amp;host=39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&amp;path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&amp;security=tls&amp;sni=39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&amp;alpn=http%2F1.1#<i",
         "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-4gi.pages.dev:2053?path=%2F9qiXsQ2YsNswgb5F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
         "vless:\/\/bf5fc7a5-e7a5-40e3-8344-dd0b4c16b891@104.17.148.22:80\/?type=ws&amp;encryption=none&amp;host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&amp;path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#<i",
         "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#<i",
@@ -17,7 +16,8 @@
         "vless:\/\/94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i",
         "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i",
         "vless:\/\/%56%32%52%41%58%58@185.146.173.93:8080?Telegram=@V2RayTz#<i",
-        "vless:\/\/94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws&amp;security=none&amp;path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed&amp;encryption=none#<i"
+        "vless:\/\/94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws&amp;security=none&amp;path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed&amp;encryption=none#<i",
+        "vless:\/\/80b5cdce-3397-4526-af1a-583ea84855f5@188.245.108.227:443?security=reality&amp;encryption=none&amp;pbk=LmpycOrNa_tTeh1tncKhOlo190nBSYgGNBi7sIVLew8&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mdundo.com&amp;sid=7edcfaf1#<i"
     ],
     "trojan": [],
     "ss": [
