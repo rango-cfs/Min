@@ -8,7 +8,6 @@
         "vmess:\/\/eyJhZGQiOiIxMDQuMTkuMzguMTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJjZG4yLmZyZWVncmFkZWx5Lnh5eiIsImlkIjoiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwicG9ydCI6IjIwNTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/fb85f2de-e825-427f-991e-5381b9d6041f@172.66.47.126:80?path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#<i",
         "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2095?path=%2Ftelegram-ArV2ry#<i",
         "vless:\/\/TELEGRAM-NUFiLTER@104.21.57.17:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Filternakon.bklink.iR.&amp;type=ws#<i",
         "vless:\/\/9012d727-cff1-4cbb-bbbf-fe9bde27900f@www.speedtest.net:2095\/?type=httpupgrade&amp;path=%2FConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs%3Fed%3D2048&amp;host=5.www.speedtest.net.zula.ir.zemestanil.iR.&amp;security=none#<i",
@@ -25,7 +24,9 @@
         "trojan:\/\/telegram-id-directvpn@52.60.216.90:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
         "trojan:\/\/telegram-id-privatevpns@18.135.25.58:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRmplRFRGUjEydFNVRDJrVG1WQjJHODhnNzJQeGU4bTM4am1mdjZlZXczUVhTb1U4YVA1RDVmTFU3UTNZbjVDYWRraWF0UUU1akZDM0g0RFVoVm5mc3VDSFNxQkczM0E@185.5.38.111:55988#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
