@@ -7,8 +7,6 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmphMDUuaHdjYXIuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/d6545fce-02c9-4d1e-ae5d-e55d2f60d165@108.162.195.205:8880\/?type=ws&amp;encryption=none&amp;host=1505-wordpress-admin-vip-panel-cpanrl-iran-chanel.mralpha-vpn.COM.&amp;path=%2FThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%3Fed%3D2048#<i",
-        "vless:\/\/cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fraud.chase&amp;type=ws#<i",
         "vless:\/\/cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443\/?type=ws&amp;encryption=none&amp;host=de01.tradex2080.com&amp;path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;sni=deefull.tradex2080.com&amp;alpn=http%2F1.1&amp;fp=chrome#<i",
         "vless:\/\/5a61fe1c-7739-423e-8c0b-58c0a7a65436@zula.ir:8080?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560&amp;host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9C%8B%E4%BA%8B%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.starlink402.top#<i",
         "vless:\/\/5a61fe1c-7739-423e-8c0b-58c0a7a65436@zula.ir:8080?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560&amp;host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9C%8B%E4%BA%8B%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.starlink402.top#<i",
@@ -20,7 +18,9 @@
         "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
         "vless:\/\/fb85f2de-e825-427f-991e-5381b9d6041f@172.66.47.126:80?path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#<i",
         "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2095?path=%2Ftelegram-ArV2ry#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@104.21.57.17:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Filternakon.bklink.iR.&amp;type=ws#<i"
+        "vless:\/\/TELEGRAM-NUFiLTER@104.21.57.17:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Filternakon.bklink.iR.&amp;type=ws#<i",
+        "vless:\/\/9012d727-cff1-4cbb-bbbf-fe9bde27900f@www.speedtest.net:2095\/?type=httpupgrade&amp;path=%2FConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs%3Fed%3D2048&amp;host=5.www.speedtest.net.zula.ir.zemestanil.iR.&amp;security=none#<i",
+        "vless:\/\/8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V08.SiMansaNaT.Ir#<i"
     ],
     "trojan": [
         "trojan:\/\/telegram-id-privatevpns@13.49.99.44:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
