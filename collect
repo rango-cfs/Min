@@ -7,7 +7,6 @@
         "vmess:\/\/eyJhZGQiOiJzcGVlZHRlc3QubmV0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoiRGJkamhpdzcyZWJzdTI3MmhzNTE5ai5jb20iLCJpZCI6IjYzZmViYzI4LTNkZmItNDYwNS05YTM5LTY4NWYyYzU1ZGExZiIsIm5ldCI6IndzIiwicGF0aCI6IndzXC8\/ZWQ9MjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiJzcGVlZHRlc3QubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/327924ed-e8c2-42e1-952b-674376055418@howdy-mst.highposhako.ir:30120?security=none&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/04911484-1823-4fae-b329-57581e1ea22e@zula.ir:80?path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=1.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#<i",
         "vless:\/\/429a2672-eda2-45ab-aa66-33ea0bca8118@66.235.200.120:8080?security=&amp;type=ws&amp;path=\/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&amp;host=join-to.vmessorg.Community.&amp;encryption=none#<i",
         "vless:\/\/1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443\/?type=ws&amp;encryption=none&amp;host=pay.technator.net&amp;path=%2Fimage%2F20992&amp;security=tls&amp;sni=pay.technator.net&amp;fp=chrome#<i",
@@ -18,11 +17,12 @@
         "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@52.23.44.143:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
         "vless:\/\/5e542e81-9869-4afd-ad5c-71629718c372@www.speedtest.net:80?security=&amp;type=ws&amp;path=\/telegram-%40Shh_Proxy-%40Shh_Proxy#<i",
         "vless:\/\/7a5a4624-df8d-4955-bccc-b3fa6161411f@parsvds.com:443?path=%2FXV2ry2%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&amp;type=ws&amp;sni=pages.dev#<i",
-        "vless:\/\/61bcb9f8-7775-498c-8828-a3852b94e8d4@www.speedtest.net:8880?path=%2F%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Nt2.WebSite.Gcore.Ubento.SVN.Zula.ir.www.speedtest.net.fast.com.7.8.9.Start.end.Com.NiSvn.IR.&amp;type=httpupgrade#<i"
+        "vless:\/\/61bcb9f8-7775-498c-8828-a3852b94e8d4@www.speedtest.net:8880?path=%2F%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Nt2.WebSite.Gcore.Ubento.SVN.Zula.ir.www.speedtest.net.fast.com.7.8.9.Start.end.Com.NiSvn.IR.&amp;type=httpupgrade#<i",
+        "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
+        "vless:\/\/5e8d055a-aed3-492a-bb0a-0f461e3c4787@190.93.247.56:8080?path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&amp;type=ws#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdFUwQjNsNzNLVk9BOHJIOWR0Y2Rh@194.87.45.189:40076#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
         "ss:\/\/Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443#<i"
     ],
