@@ -1,6 +1,5 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiIxMDQuMTYuNC4xMDMiLCJhaWQiOjAsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJmbDEudHJhZGV4MjA4MC5jb20iLCJpZCI6ImQyYzZkZGMwLTg5MWEtNDQzNS1hYzBhLTRhNWNkYjc4Y2I3ZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvUnFPSEZUMDZxbmtYT2RGTjRXSiIsInBvcnQiOjgwODAsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiZmwxLnRyYWRleDIwODAuY29tIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjE2LjI5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMjEuMjQuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZGVuYzM2di54dG9vbHRlY2guY2ZkIiwiaWQiOiJiMzIxZmQ1ZC1lNmVjLTQyOTMtYTY0NC0xNjRlMzg4NWY1MmUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjE2LjI5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
@@ -18,7 +17,8 @@
         "vless:\/\/1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443\/?type=ws&amp;encryption=none&amp;host=pay.technator.net&amp;path=%2Fimage%2F20992&amp;security=tls&amp;sni=pay.technator.net&amp;fp=chrome#<i",
         "vless:\/\/0012d4b0-1ab7-466b-85e8-8eaf05c6db9c@213.176.0.240:43521\/?encryption=none&amp;host=match-cdn.varzesh3.com&amp;type=tcp&amp;headerType=http#<i",
         "vless:\/\/7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
-        "vless:\/\/----ID--EVAY_VPN----66@172.66.213.38:8443?path=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;encryption=none&amp;host=babe.loveiran01.com&amp;fp=chrome&amp;type=ws&amp;sni=babe.loveiran01.com#<i"
+        "vless:\/\/----ID--EVAY_VPN----66@172.66.213.38:8443?path=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;encryption=none&amp;host=babe.loveiran01.com&amp;fp=chrome&amp;type=ws&amp;sni=babe.loveiran01.com#<i",
+        "vless:\/\/2cc2c64a-f1ff-44d4-ac05-4037adc9a3e2@[2a01:4f8:1c1b:7df::1]:443?encryption=none&amp;security=reality&amp;sni=gsmarena.com&amp;serviceName=@Everyday_VPN#<i"
     ],
     "trojan": [],
     "ss": [
