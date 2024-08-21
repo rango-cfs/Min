@@ -6,9 +6,6 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzMuMTYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1MDkwNzA4MjY4NTk0MjA1OTg3NjM4Nzc5OTgyNDc3OS5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiYThkMThkMTctNmViMC00Mzg0LWIzYjAtNTU4ZGU3NzY1Njg2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
-        "vless:\/\/2cc2c64a-f1ff-44d4-ac05-4037adc9a3e2@[2a01:4f8:1c1b:7df::1]:443?encryption=none&amp;security=reality&amp;sni=gsmarena.com&amp;serviceName=@Everyday_VPN#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@52.23.44.143:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/5e542e81-9869-4afd-ad5c-71629718c372@www.speedtest.net:80?security=&amp;type=ws&amp;path=\/telegram-%40Shh_Proxy-%40Shh_Proxy#<i",
         "vless:\/\/7a5a4624-df8d-4955-bccc-b3fa6161411f@parsvds.com:443?path=%2FXV2ry2%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&amp;type=ws&amp;sni=pages.dev#<i",
         "vless:\/\/61bcb9f8-7775-498c-8828-a3852b94e8d4@www.speedtest.net:8880?path=%2F%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Nt2.WebSite.Gcore.Ubento.SVN.Zula.ir.www.speedtest.net.fast.com.7.8.9.Start.end.Com.NiSvn.IR.&amp;type=httpupgrade#<i",
         "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
@@ -20,11 +17,14 @@
         "vless:\/\/d692eac3-ed8d-4454-b07e-35075785f316@ver1.tcod008.info:51535?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:80?path=%2FXV2ry2%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=Telegram-XV2ry2---XV2ry2---XV2ry2---XV2ry2---XV2ry2---XV2ry2.w.w.w.speedtest.net.xn--g28h.dns-dynamic.net.&amp;type=ws#<i",
         "vless:\/\/a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=t-netplus-4vx.pages.dev&amp;fp=random&amp;type=ws&amp;sni=t-netplus-4vx.pages.dev#<i",
-        "vless:\/\/Telegram-ipV2Ray-fun@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#<i"
+        "vless:\/\/Telegram-ipV2Ray-fun@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#<i",
+        "vless:\/\/63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095\/?type=ws&amp;encryption=none&amp;host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&amp;path=TelegramChanel%3At.me%2FHTTP_injector99#<i",
+        "vless:\/\/dddf2910-63e7-4314-9028-55caa657e330@104.16.232.2:8080?path=%2FDaily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Daily-Configs-bahHwjHSJABbJnshb.www.speedtest.net.blackoutconnection.ir.&amp;type=httpupgrade#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprNnQ3QVZ5bzVOSGlDWGlZRDZIQzE1@45.33.30.8:18789\/?outline=1#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprNnQ3QVZ5bzVOSGlDWGlZRDZIQzE1@45.33.30.8:18789\/?outline=1#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
