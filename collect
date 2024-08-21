@@ -9,7 +9,6 @@
         "vmess:\/\/eyJhZGQiOiIxMDQuMjEuMjQuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZGVuYzM2di54dG9vbHRlY2guY2ZkIiwiaWQiOiJiMzIxZmQ1ZC1lNmVjLTQyOTMtYTY0NC0xNjRlMzg4NWY1MmUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/e292c8a2-50d4-4c20-ae95-fd20dd44d1a6@46.245.64.144:2095?type=ws&amp;path=%2F-----------------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-----------------&amp;host=www.speedtest.net&amp;security=none#<i",
         "vless:\/\/telegram-id-ArV2ray@www.parsvds.ir:2095?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=6.V2.b.www.speedtest.net.dnschecker.tecH.&amp;type=ws#<i",
         "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=4.www.speedtest.net.G.speedtest-1.LiVE.&amp;type=httpupgrade#<i",
         "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i",
@@ -17,7 +16,8 @@
         "vless:\/\/DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i",
         "vless:\/\/e0032731-2d03-48e1-bcf4-bb1e79650a8f@[2606:4700:3036::6815:5ea8]:8080\/?type=ws&amp;encryption=none&amp;host=FySuMyYk3.aMirsiTesos.sItE.&amp;path=%2FV_2raYngVpn%3Fed%3D8080#<i",
         "vless:\/\/781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.17:80?security=none&amp;type=ws&amp;sni=us3.rtacg.com&amp;path=\/&amp;encryption=none&amp;headerType=none#<i",
-        "vless:\/\/49fc52a8-64d5-4fbe-8049-97e9173b2937@185.146.173.58:8080\/?type=ws&amp;encryption=none&amp;host=lc4.lebasnoo.ir.&amp;path=%2Fservernett#<i"
+        "vless:\/\/49fc52a8-64d5-4fbe-8049-97e9173b2937@185.146.173.58:8080\/?type=ws&amp;encryption=none&amp;host=lc4.lebasnoo.ir.&amp;path=%2Fservernett#<i",
+        "vless:\/\/327924ed-e8c2-42e1-952b-674376055418@howdy-mst.highposhako.ir:30120?security=none&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#<i"
     ],
     "trojan": [
         "trojan:\/\/telegram-id-privatevpns@18.135.25.58:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
