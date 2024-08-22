@@ -7,7 +7,6 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmphMDUuaHdjYXIuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
-        "vless:\/\/a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=t-netplus-4vx.pages.dev&amp;fp=random&amp;type=ws&amp;sni=t-netplus-4vx.pages.dev#<i",
         "vless:\/\/Telegram-ipV2Ray-fun@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#<i",
         "vless:\/\/63165b83-9244-465d-b1cf-f4524c28f611@66.235.200.91:2095\/?type=ws&amp;encryption=none&amp;host=13.v2.n.www.speedtest.net.dnschecker.one.chanel99.online&amp;path=TelegramChanel%3At.me%2FHTTP_injector99#<i",
         "vless:\/\/dddf2910-63e7-4314-9028-55caa657e330@104.16.232.2:8080?path=%2FDaily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Daily-Configs-bahHwjHSJABbJnshb.www.speedtest.net.blackoutconnection.ir.&amp;type=httpupgrade#<i",
@@ -19,7 +18,8 @@
         "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
         "vless:\/\/b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
         "vless:\/\/DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i",
-        "vless:\/\/09978008-b2ac-41a9-ad00-0bb586dd07b4@198.41.193.40:80?type=ws&amp;path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&amp;host=Daily-Configs-bahHwjHSJABbJnshb.www.speedtest.net.blackoutconnection.ir.&amp;security=none#<i"
+        "vless:\/\/09978008-b2ac-41a9-ad00-0bb586dd07b4@198.41.193.40:80?type=ws&amp;path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&amp;host=Daily-Configs-bahHwjHSJABbJnshb.www.speedtest.net.blackoutconnection.ir.&amp;security=none#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.46.8:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i"
     ],
     "trojan": [],
     "ss": [
