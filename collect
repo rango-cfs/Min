@@ -17,14 +17,14 @@
         "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i",
         "vless:\/\/da9f4dd9-7e88-4315-ad1e-965446ed5147@www.speedtest.net:2095\/?type=httpupgrade&amp;path=%2FConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs-ConfigMs%3Fed%3D2048&amp;host=5.www.speedtest.net.zula.ir.zemestanil.iR.&amp;security=none#<i",
         "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/6ee42f60-cd65-4ab8-bb79-991d12ae877f@54.220.213.97:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i"
+        "vless:\/\/6ee42f60-cd65-4ab8-bb79-991d12ae877f@54.220.213.97:8880?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir&amp;type=ws#<i"
     ],
     "trojan": [
         "trojan:\/\/Watashi_VPN@104.17.148.22:443?path=%2F&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i",
         "trojan:\/\/telegram-id-directvpn@15.157.90.6:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXTTVhZHJYaWpwd0FwbTF3THNFQjNXRlNDckc5YVE2UUFKalZjMmJ0ajczRnZCbnc=@89.107.10.65:51348#<i"
     ],
     "tuic": [],
