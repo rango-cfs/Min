@@ -4,8 +4,6 @@
         "vmess:\/\/eyJhZGQiOiJzcGVlZHRlc3QubmV0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoiRGJkamhpdzcyZWJzdTI3MmhzNTE5ai5jb20iLCJpZCI6ImY5NTAzNzdhLTU5MTgtNDdiMS04ZTI2LTg1OTVhZjM1ZjIwMyIsIm5ldCI6IndzIiwicGF0aCI6IndzXC8\/ZWQ9MjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiJzcGVlZHRlc3QubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/d692eac3-ed8d-4454-b07e-35075785f316@ver1.tcod008.info:51535?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/25b44465-fb20-4258-b519-8d4de16c3caf@sure.iamconnected.sbs:2053?security=none&amp;encryption=none&amp;host=nobitex.com&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/Telegram-ipV2Ray-had@www.speedtest.net:80?type=httpupgrade&amp;path=\/Telegram-ipV2Ray?ed%3D2048&amp;host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&amp;security=none#<i",
         "vless:\/\/8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80?encryption=none&amp;security=none&amp;type=ws&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.&amp;path=%2F#<i",
         "vless:\/\/131f0fe7-9042-4180-b2a1-8dc51d3fdffe@tr5tyu.vhghhh.meghdad-market2.ir:8443?type=grpc&amp;serviceName=&amp;mode=multi&amp;security=none#<i",
@@ -16,7 +14,9 @@
         "vless:\/\/5c62a04e-8519-44bc-8cf9-2b883d981c1c@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc11.lebasnoo.ir.&amp;type=ws#<i",
         "vless:\/\/ca4b4285-7048-4729-9fb5-d0249e37f16a@ahanghfarsi.shop:1001?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/1d69c1fd-7eaa-4e26-8667-4a8a215aac05@104.21.19.124:8880?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=splUs.Ir.DigIcYBer.CLIck.&amp;type=httpupgrade#<i",
-        "vless:\/\/%63%31%66%39%31%35%33%62%2d%64%31%64%34%2d%34%65%32%35%2d%62%34%36%36%2d%30%38%35%63%63%37%63%64%33%32%30%64@172.67.138.69:8880?Telegram=@V2RayTz#<i"
+        "vless:\/\/%63%31%66%39%31%35%33%62%2d%64%31%64%34%2d%34%65%32%35%2d%62%34%36%36%2d%30%38%35%63%63%37%63%64%33%32%30%64@172.67.138.69:8880?Telegram=@V2RayTz#<i",
+        "vless:\/\/9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=%2Ftelegram-%40freevirgoolnet%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=de1-moryvpnbot.pages.dev&amp;type=ws&amp;sni=de1-moryvpnbot.pages.dev#<i",
+        "vless:\/\/f647c6d6-131f-42fe-981b-85e46d05dd89@www.parspack.com:8080?type=httpupgrade&amp;path=%2FMdVpnSec%3Fed%3D2048=Telegram#<i"
     ],
     "trojan": [
         "trojan:\/\/telegram-id-privatevpns@18.153.233.51:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
