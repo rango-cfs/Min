@@ -18,10 +18,10 @@
         "vless:\/\/%50a%72sa%73%68%6fna%6d-47@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
         "vless:\/\/d692eac3-ed8d-4454-b07e-35075785f316@ver1.tcod008.info:51535?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/25b44465-fb20-4258-b519-8d4de16c3caf@sure.iamconnected.sbs:2053?security=none&amp;encryption=none&amp;host=nobitex.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/Telegram-ipV2Ray-had@www.speedtest.net:80?type=httpupgrade&amp;path=\/Telegram-ipV2Ray?ed%3D2048&amp;host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&amp;security=none#<i"
+        "vless:\/\/Telegram-ipV2Ray-had@www.speedtest.net:80?type=httpupgrade&amp;path=\/Telegram-ipV2Ray?ed%3D2048&amp;host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&amp;security=none#<i",
+        "vless:\/\/8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80?encryption=none&amp;security=none&amp;type=ws&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.&amp;path=%2F#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@15.236.100.32:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
         "trojan:\/\/telegram-id-directvpn@13.49.103.115:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [
