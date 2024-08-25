@@ -1,8 +1,6 @@
 {
     "vmess": [
         "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMTQuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjY4NjkwOTA3NzgzNDYxMTYzNTA4MjM5MTA1MjUzNzU4LmNocnNqZmtsc2RqZmtsam9pZXJmZGprbGZqbGtlZmVvanNkbGtmamVvaWZqc2Rsa2Zqd2VvaWZqbHNkY2hycy5jeW91IiwiaWQiOiJjMGYzZjg5MC1kMzI5LTQyZmMtODMxMS0xNmFlMzFjMjJjNmIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
-        "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMTMxLjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiaG1zMTkuYmVzdC10aXppLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
-        "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMTQuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjY4NjkwOTA3NzgzNDYxMTYzNTA4MjM5MTA1MjUzNzU4LmNocnNqZmtsc2RqZmtsam9pZXJmZGprbGZqbGtlZmVvanNkbGtmamVvaWZqc2Rsa2Zqd2VvaWZqbHNkY2hycy5jeW91IiwiaWQiOiJjMGYzZjg5MC1kMzI5LTQyZmMtODMxMS0xNmFlMzFjMjJjNmIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIzOTIzODMxOTMxMDk2NDU0MzkyMDUxOTQ4OTcwMTkwMC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiOTQ3Y2IzODUtNTRiNC00NDUzLWFjOTItNjNjOTVlZjMyYTZhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmphMDUuaHdjYXIuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiMmYxODhjNjEtNjYyMi00MDU2LTgxMGUtYTFhNWYxYzliMDIzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
@@ -11,7 +9,6 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMTMxLjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiaG1zMTkuYmVzdC10aXppLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/9488c287-bbfc-4281-a1ef-d70797d00c29@join.2.kiava.cloud.nevao.ir:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws84.cloudfront.net.kiava.fun&amp;path=%2F%3Fed%3D2560#<i",
         "vless:\/\/%50a%72sa%73%68%6fna%6d-47@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
         "vless:\/\/d692eac3-ed8d-4454-b07e-35075785f316@ver1.tcod008.info:51535?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/25b44465-fb20-4258-b519-8d4de16c3caf@sure.iamconnected.sbs:2053?security=none&amp;encryption=none&amp;host=nobitex.com&amp;headerType=http&amp;type=tcp#<i",
@@ -19,10 +16,13 @@
         "vless:\/\/8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80?encryption=none&amp;security=none&amp;type=ws&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.&amp;path=%2F#<i",
         "vless:\/\/131f0fe7-9042-4180-b2a1-8dc51d3fdffe@tr5tyu.vhghhh.meghdad-market2.ir:8443?type=grpc&amp;serviceName=&amp;mode=multi&amp;security=none#<i",
         "vless:\/\/a0ac2726-80a4-4dd5-9505-9b3181c626b0@www.parspack.com:8880?type=httpupgrade&amp;path=%2FSHHPROXY%3Fed%3D2048=Telegram#<i",
-        "vless:\/\/a0ac2726-80a4-4dd5-9505-9b3181c626b0@www.parspack.com:8880?type=httpupgrade&amp;path=%2FSHHPROXY%3Fed%3D2048&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;security=none#<i"
+        "vless:\/\/a0ac2726-80a4-4dd5-9505-9b3181c626b0@www.parspack.com:8880?type=httpupgrade&amp;path=%2FSHHPROXY%3Fed%3D2048&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;security=none#<i",
+        "vless:\/\/262e9f21-aef4-47ab-8a81-c16f9ee9bbe1@188.114.96.3:443?path=%2FbzOBBxsE2eORVlNU%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2%2Chttp%2F1.1&amp;host=vIoletkaUfman.PAgES.dev&amp;fp=randomized&amp;type=ws&amp;sni=VIOlEtKaUfman.PAGes.dev#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@18.153.233.51:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/telegram-id-privatevpns@18.153.233.51:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-privatevpns@54.73.169.86:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [
         "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a09kcG13VGpLUGdPVVNPN1E3Y0FPSi8rcHpQUnhYQWIzTjk3WDJJRnBrTT06bVM3NjRVNlVxZ1BxUkdWUXVkdXNNRW83enRrRlhPTHVJc1c0N2o4enAwND0=@167.172.111.237:21108#<i"
