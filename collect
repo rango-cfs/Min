@@ -14,7 +14,6 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMTMxLjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiaG1zMTkuYmVzdC10aXppLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/aece0e9c-fc30-4e53-b09c-29622372c2ed@www.visa.com:8880?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=iran-hamedan.beheni7009.workers.dev&amp;type=ws#<i",
         "vless:\/\/45889dac-ca5b-4587-803b-cedb5d787f4f@www.speedtest.net:80?type=httpupgrade&amp;path=%2FTelegram-ConfigMs%3Fed%3D2048&amp;host=5.www.speedtest.net.zula.ir.zemestanil.iR.&amp;security=none#<i",
         "vless:\/\/9488c287-bbfc-4281-a1ef-d70797d00c29@join.2.kiava.cloud.nevao.ir:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws84.cloudfront.net.kiava.fun&amp;path=%2F%3Fed%3D2560#<i",
         "vless:\/\/%50a%72sa%73%68%6fna%6d-47@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
@@ -25,7 +24,9 @@
         "trojan:\/\/telegram-id-privatevpns@15.236.100.32:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
         "trojan:\/\/telegram-id-directvpn@13.49.103.115:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a09kcG13VGpLUGdPVVNPN1E3Y0FPSi8rcHpQUnhYQWIzTjk3WDJJRnBrTT06bVM3NjRVNlVxZ1BxUkdWUXVkdXNNRW83enRrRlhPTHVJc1c0N2o4enAwND0=@167.172.111.237:21108#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
