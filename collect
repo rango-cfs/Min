@@ -1,9 +1,9 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiJzcGVlZHRlc3QubmV0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoiRGJkamhpdzcyZWJzdTI3MmhzNTE5ai5jb20iLCJpZCI6ImY5NTAzNzdhLTU5MTgtNDdiMS04ZTI2LTg1OTVhZjM1ZjIwMyIsIm5ldCI6IndzIiwicGF0aCI6IndzXC8\/ZWQ9MjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiJzcGVlZHRlc3QubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiMmYxODhjNjEtNjYyMi00MDU2LTgxMGUtYTFhNWYxYzliMDIzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMTkuNTEuMjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiaXAwMDUuZHRrdTQ3Lnh5eiIsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwicG9ydCI6IjIwODYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>",
-        "vmess:\/\/eyJ2IjoyLCJhZGQiOiJjZG4uYW55bWF0aC5pciIsImFpZCI6MCwiaG9zdCI6InNwZWVkdGVzdC5uZXQuenVsYS5pci53d3cuYW55bWF0aC5pciIsImlkIjoiZDhlZTc1NDgtMGE5My00NzNmLTg3ZjgtMjQwNDIwMWM1ZmY4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9AQ0hBTkdFX0lQMSIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6Im5vbmUifQ==<\/code>"
+        "vmess:\/\/eyJ2IjoyLCJhZGQiOiJjZG4uYW55bWF0aC5pciIsImFpZCI6MCwiaG9zdCI6InNwZWVkdGVzdC5uZXQuenVsYS5pci53d3cuYW55bWF0aC5pciIsImlkIjoiZDhlZTc1NDgtMGE5My00NzNmLTg3ZjgtMjQwNDIwMWM1ZmY4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9AQ0hBTkdFX0lQMSIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6Im5vbmUifQ==<\/code>",
+        "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
         "vless:\/\/9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=%2Ftelegram-%40freevirgoolnet%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=de1-moryvpnbot.pages.dev&amp;type=ws&amp;sni=de1-moryvpnbot.pages.dev#<i",
@@ -17,11 +17,10 @@
         "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
         "vless:\/\/%50a%72sa%73%68%6fna%6d-48@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
         "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-857.pages.dev:8443?path=%2FxOAmsj7uVM5y2ZwY%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
-        "vless:\/\/765b1d13-5b88-4263-a27e-3bec46695f47@viP.nANVAiiISAeed.IR:80?hiddify=1&amp;sni=TaRaWEB.At&amp;type=ws&amp;alpn=http\/1.1&amp;mc=1&amp;path=\/AOagIIfbJJ0hbXIwCE6mq&amp;host=taraweb.at&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=none#<i"
+        "vless:\/\/765b1d13-5b88-4263-a27e-3bec46695f47@viP.nANVAiiISAeed.IR:80?hiddify=1&amp;sni=TaRaWEB.At&amp;type=ws&amp;alpn=http\/1.1&amp;mc=1&amp;path=\/AOagIIfbJJ0hbXIwCE6mq&amp;host=taraweb.at&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=none#<i",
+        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=8.V2.g.www.speedtest.net.mehpow.iR.&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@52.56.147.119:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
+    "trojan": [],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRmhjRjRkZGYwS0xqakJHMkFKSUJy@165.22.238.239:44386\/?outline=1#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cGlGSmxXQnlnQm9QVFB4TXhBUUxj@vienna.telegavpn.com:61992#<i",
