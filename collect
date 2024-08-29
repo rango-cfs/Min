@@ -19,11 +19,10 @@
         "vless:\/\/d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=%2Ftelegram-proxy_mtm%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mmdv2.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=mmdv2.pages.dev#<i",
         "vless:\/\/cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443\/?type=ws&amp;encryption=none&amp;host=de01.tradex2080.com&amp;path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&amp;security=tls&amp;sni=deefull.tradex2080.com&amp;alpn=http%2F1.1&amp;fp=chrome#<i",
         "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.4:443\/?type=ws&amp;encryption=none&amp;host=mahDiServeR-903.PAGeS.DeV&amp;path=%2FpyC8KttBFzmLUfry%3Fed%3D2560&amp;security=tls&amp;sni=MAhdiSeRver-903.paGES.deV&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized#<i",
-        "vless:\/\/%74e%6ce%67ra%6d-%69d-%50c%562ray@www.speedtest.net:8880?type=grpc&amp;serviceName=Telegram:@ConfingV2RaayNG#<i"
+        "vless:\/\/%74e%6ce%67ra%6d-%69d-%50c%562ray@www.speedtest.net:8880?type=grpc&amp;serviceName=Telegram:@ConfingV2RaayNG#<i",
+        "vless:\/\/0012d4b0-1ab7-466b-85e8-8eaf05c6db9c@213.176.0.240:43521\/?encryption=none&amp;host=match-cdn.varzesh3.com&amp;type=tcp&amp;headerType=http#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@13.48.154.165:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
+    "trojan": [],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i"
     ],
