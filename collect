@@ -4,8 +4,6 @@
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjIwLjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsImlkIjoiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmphMDUuaHdjYXIuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/c5547ee1-05c4-4aff-aeb7-1162b0c5d1ff@s3mci.riashop.ir:45051?security=none&amp;encryption=none&amp;host=nobitex.ir&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/4100d055-5857-44fb-9b7b-9d699dd4f347@95.217.31.246:18929?security=reality&amp;encryption=none&amp;pbk=rFZOWxVcsZn5--1yLku3SGglZ0Y2Ban0buZIN3-vFwU&amp;host=bmw.com&amp;headerType=http&amp;fp=firefox&amp;spx=%2Ff2net&amp;type=tcp&amp;sni=testv6.tigervp.xyz&amp;sid=cfef326c#<i",
         "vless:\/\/7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443\/?type=tcp&amp;encryption=none&amp;security=tls&amp;sni=tr2.tradex2080.com&amp;alpn=http%2F1.1&amp;fp=chrome#<i",
         "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.28.251:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
         "vless:\/\/d5e9f164-e824-42ea-900f-5a49388ddba7@zula.ir:80?path=%2Fmelo%2Fis%2Fneeded&amp;security=none&amp;encryption=none&amp;host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&amp;type=ws#<i",
@@ -17,7 +15,9 @@
         "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:8880?type=httpupgrade&amp;host=1.www.speedtest.net.C.speedtest2.Live.&amp;path=\/telegram-ArV2ry#<i",
         "vless:\/\/9fd36a9b-4d61-49b1-8986-6a95543e8b08@104.17.147.22:80\/?type=ws&amp;encryption=none&amp;host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&amp;path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey#<i",
         "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.91.152:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/35bf66ad-f01e-4cdd-855e-34c03cadd489@Bank.codezeep.ir:443?security=reality&amp;encryption=none&amp;pbk=kBBSmftl_t-gyWPm4cCg3n-_qYquZxC8lj_qJU5g0Ho&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mdundo.com&amp;sid=34d2250a45581c19#<i"
+        "vless:\/\/35bf66ad-f01e-4cdd-855e-34c03cadd489@Bank.codezeep.ir:443?security=reality&amp;encryption=none&amp;pbk=kBBSmftl_t-gyWPm4cCg3n-_qYquZxC8lj_qJU5g0Ho&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mdundo.com&amp;sid=34d2250a45581c19#<i",
+        "vless:\/\/15e0e1bc-0551-42a6-dfca-26ed4a3165ef@46.245.64.60:20652?type=tcp&amp;path=%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2F&amp;host=webmail.yjc.ir&amp;headerType=http&amp;security=none#<i",
+        "vless:\/\/91dfe4e7-3ad4-4be4-82c6-c30248c43ebe@www.speedtest.net:8880?type=splithttp&amp;path=%2F&amp;host=Daily-Configs-bahHwjHSJABbJnshb.www.speedtest.net.blackoutconnection.ir.&amp;security=none#<i"
     ],
     "trojan": [
         "trojan:\/\/telegram-id-directvpn@15.222.136.230:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
