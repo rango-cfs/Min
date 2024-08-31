@@ -1,6 +1,5 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMTE2LjQ4IiwiYWlkIjoiMCIsImhvc3QiOiJ3YXAuaG9zdG1qai5jb20iLCJpZCI6IjIyYTEzYWEyLTQ4NTQtNDRjYi1lMDkwLWVjNzFhYjg0YjFmZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoyLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiJ9<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMTkuNDUuMjUzIiwiYWlkIjowLCJob3N0Ijoib25lYS5mbGhhLnJ1IiwiaWQiOiI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDk1Iiwic2N5IjoiYXV0byIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
         "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1ODg5Mjg3NzcwNjY0ODM1Nzc2MTk4MDQwNTA0NTM2NC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiMmYxODhjNjEtNjYyMi00MDU2LTgxMGUtYTFhNWYxYzliMDIzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>",
@@ -20,7 +19,8 @@
         "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
         "vless:\/\/37239c7f-b959-4065-841f-ac516465f8fe@176.65.242.107:39554\/?type=ws&amp;encryption=none&amp;path=%2F#<i",
         "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
-        "vless:\/\/cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80\/?type=ws&amp;encryption=none&amp;host=fraud.chase&amp;path=%2F%3Fed%3D2048#<i"
+        "vless:\/\/cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80\/?type=ws&amp;encryption=none&amp;host=fraud.chase&amp;path=%2F%3Fed%3D2048#<i",
+        "vless:\/\/bf852703-3716-43f6-81c6-7f08403a1d55@[2a06:98c1:3122::]:8880\/?type=ws&amp;encryption=none&amp;host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&amp;path=%2F%3Fed%3D2048#<i"
     ],
     "trojan": [
         "trojan:\/\/telegram-id-directvpn@18.169.79.38:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
