@@ -562,11 +562,7 @@ function generateEndofConfiguration() {
 }
 
 $source = "IP_CF";
-$source1 = "ArV2ray";
-$source2 = "Tunder_vpn";
 $configsList = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs($source) . generateEndofConfiguration();
-$configsList1 = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs($source1) . generateEndofConfiguration();
-$configsList2 = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs($source2) . generateEndofConfiguration();
 
-file_put_contents("Miner/normal", $configsList,$configsList1,$configsList2);
+file_put_contents("Miner/normal", $configsList);
 file_put_contents("Miner/base64", base64_encode($configsList));
