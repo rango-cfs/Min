@@ -561,7 +561,7 @@ function generateEndofConfiguration() {
     return "vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽Channel: @IP_CF\nvless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#IP_CF";
 }
 
-$source = "ArV2ray";
+
 $configsList = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs("ArV2ray") . generateEndofConfiguration();
 
 file_put_contents("Miner/normal", $configsList);
