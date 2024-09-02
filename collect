@@ -11,7 +11,6 @@
         "vmess:\/\/eyJhZGQiOiIxMDQuMTkuNTEuMjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiaXAwMDUuZHRrdTQ3Lnh5eiIsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwicG9ydCI6IjIwODYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=<\/code>"
     ],
     "vless": [
-        "vless:\/\/4aa844b8-14b3-5ab5-aa44-e1d9a4e21c80@185.146.173.146:8080\/?type=ws&amp;encryption=none&amp;host=Uk1.vless.site.&amp;path=%2Fvless%3Fed%3D8080#<i",
         "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
         "vless:\/\/3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080\/?type=ws&amp;encryption=none&amp;host=join-to.vmessorg.Community.&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#<i",
         "vless:\/\/7693c76a-20e0-497d-8692-1e310a26bca5@www.speedtest.net:80\/?type=httpupgrade&amp;path=%2FTelegram-ConfigMs%3Fed%3D2048&amp;host=5.www.speedtest.net.zula.ir.zemestanil.iR.&amp;security=none#<i",
@@ -21,7 +20,8 @@
         "vless:\/\/55b57d47-00b7-4539-ae4a-fc394e53d3d4@104.17.147.22:8880\/?type=ws&amp;encryption=none&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#<i",
         "vless:\/\/48ee59f2-5f58-486f-9dc1-940a68eeb9ae@www.speedtest.net:80?security=none&amp;type=ws&amp;path=\/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co&amp;encryption=none#<i",
         "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i",
-        "vless:\/\/a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.ThEpHp.Ir#<i"
+        "vless:\/\/a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V11.ThEpHp.Ir#<i",
+        "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i"
     ],
     "trojan": [],
     "ss": [],
