@@ -574,7 +574,7 @@ $telegramChannelURLs = [
 
 ];
 
-$configsList = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs($telegramChannelURLs) . generateEndofConfiguration();
+$configsList = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs("Freeland8","ArV2ray") . generateEndofConfiguration();
 
 file_put_contents("Miner/normal", $configsList);
 file_put_contents("Miner/base64", base64_encode($configsList));
