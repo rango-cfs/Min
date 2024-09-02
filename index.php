@@ -562,7 +562,19 @@ function generateEndofConfiguration() {
 }
 
 $source = "IP_CF_Config";
-$configsList = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs("IP_CF_Config") . generateEndofConfiguration();
+
+$telegramChannelURLs = [
+    "ip_cf",
+    "Freeland8",
+    "ArV2ray",
+    "nufilter",
+    "Tunder_vpn",
+    "V2pedia",
+    "lightni",
+
+];
+
+$configsList = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs($telegramChannelURLs) . generateEndofConfiguration();
 
 file_put_contents("Miner/normal", $configsList);
 file_put_contents("Miner/base64", base64_encode($configsList));
