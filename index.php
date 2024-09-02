@@ -561,7 +561,7 @@ function generateEndofConfiguration() {
     return "vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👽Channel: @IP_CF\nvless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#IP_CF";
 }
 
-$source = trim(file_get_contents("source.conf"));
+$source = "IP_CF";
 $configsList = generateHiddifyTags() . "\n" . generateUpdateTime() . getTelegramChannelConfigs($source) . generateEndofConfiguration();
 
 file_put_contents("Miner/normal", $configsList);
