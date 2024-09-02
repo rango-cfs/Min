@@ -10,7 +10,6 @@
         "vmess:\/\/eyJhZGQiOiIxMDQuMjYuMTUuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1MDkwNzA4MjY4NTk0MjA1OTg3NjM4Nzc5OTgyNDc3OS5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsImlkIjoiZjFmYjI4ZTUtZTViNi00NTBjLTk3MmMtMTMyMzVjOTQyODVjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9WMkxJTkUtVEVMRUdSQU0tQ0hBTk5FTC1WTUVTUy1XUyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==<\/code>"
     ],
     "vless": [
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@zula.ir:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
         "vless:\/\/6ad624f4-c1e0-4911-e3fd-f0e9d797991b@footlo.argha-v2pedia.monster:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=Telegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia%2CTelegram%3A%40v2pedia&amp;sni=tuyacn.com&amp;sid=da#<i",
         "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:53421?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
         "vless:\/\/4aa844b8-14b3-5ab5-aa44-e1d9a4e21c80@185.146.173.146:8080\/?type=ws&amp;encryption=none&amp;host=Uk1.vless.site.&amp;path=%2Fvless%3Fed%3D8080#<i",
@@ -20,12 +19,12 @@
         "vless:\/\/49fc52a8-64d5-4fbe-8049-97e9173b2937@185.146.173.58:8080\/?type=ws&amp;encryption=none&amp;host=lc4.lebasnoo.ir.&amp;path=%2Fservernett#<i",
         "vless:\/\/18c680fc-f921-484c-85d3-ec191f7cc983@sky1.bbv2ry.pics:443?type=tcp&amp;path=%2F&amp;host=ghbi.ir&amp;headerType=http&amp;security=none#<i",
         "vless:\/\/768961c6-1172-4cfa-9d2b-d44c8be6cd0f@85.198.9.157:2070?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/55b57d47-00b7-4539-ae4a-fc394e53d3d4@104.17.147.22:8880\/?type=ws&amp;encryption=none&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#<i"
+        "vless:\/\/55b57d47-00b7-4539-ae4a-fc394e53d3d4@104.17.147.22:8880\/?type=ws&amp;encryption=none&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#<i",
+        "vless:\/\/48ee59f2-5f58-486f-9dc1-940a68eeb9ae@www.speedtest.net:80?security=none&amp;type=ws&amp;path=\/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co&amp;encryption=none#<i",
+        "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
