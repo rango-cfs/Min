@@ -1,18 +1,11 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF<\/pre>",
         "vless:\/\/94939a70-ca28-4c8c-9349-0d9ef67fce99@79.127.70.111:443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF<\/pre>",
         "vless:\/\/111cdb03-9206-4bd0-8598-d0f4abe61201@79.127.70.80:2087?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF<\/pre>"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.1\u2026<\/div>",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOOWh1bXg1ZEdtanJQdjJMbXAwbXVC@vienna.telegavpn.com:61992#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTG5nbFd2TkZhc1BaMkVsNVdqcTVN@vienna.telegavpn.com:61992#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0VENWVzZvd29OcVFKc09TT1NNaHFQ@vienna.telegavpn.com:61992#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXcTFVckR2QktMdG5qY1psSmFJRmI3@vienna.telegavpn.com:61992#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2TXZRdVNJUXJqNkwxSjdyZjFyVnlP@vienna.telegavpn.com:61992#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTN0hRMjVIZWc1MURzQXdxckg0SVFL@vienna.telegavpn.com:61992#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbTZ3cmhDUk1zOVY4YlRCNWZpdHJR@vienna.telegavpn.com:61992#<i"
     ],
