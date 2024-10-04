@@ -9,7 +9,8 @@
         "vless:\/\/ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF<\/pre>",
         "vless:\/\/a66b8a53-ea44-4cd1-92a8-fe1bb65cc363@speedtest.net:443?path=ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=gfbhgvf5fvgt4ftgrhyr4.com&amp;type=ws&amp;sni=speedtest.net#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF",
         "vless:\/\/ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF",
-        "vless:\/\/ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF<\/pre>"
+        "vless:\/\/ce8fd53c-7181-4ac6-9ece-b99e2ca542c3@79.127.70.84:2083?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF<\/pre>",
+        "vless:\/\/6e3acf13-788a-4de7-90f3-2887871bb42d@[2a01:4f8:c013:637f::1]:40346?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF<\/pre>"
     ],
     "trojan": [],
     "ss": [],
