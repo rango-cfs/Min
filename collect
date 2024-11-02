@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/IP_CF",
         "vless:\/\/IP_CF"
     ],
     "trojan": [],
